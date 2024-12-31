@@ -1,4 +1,4 @@
-# Link-Pen: Your LinkedIn Post Generator ✍️
+# Link-Pen: A LinkedIn Post Generator ✍️
 
 **Link-Pen** is a sleek and powerful LinkedIn post generator, thoughtfully designed to help you create impactful posts in just seconds. Whether you're sharing insights, promoting your brand, or engaging with your professional network, Link-Pen streamlines the process, making it seamless and effortless. Tailored for busy LinkedIn influencers and professionals, this application takes the hassle out of curating posts, ensuring you can maintain a consistent presence without sacrificing quality or time. Let Link-Pen handle the creativity, so you can focus on making an impact.
 
@@ -44,3 +44,6 @@
 
 ## Contributing 🤝
 Contributions are welcome! Feel free to fork the repo and submit a pull request with your improvements or ideas.
+
+---
+Made with ☕️+🫶 @Garima Taneja 
