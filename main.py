@@ -1,6 +1,5 @@
 
 import streamlit as st
-import pyperclip
 from few_shot import FewShotPosts
 from post_generator import generate_post
 length_options = ["Short", "Medium", "Long"]
