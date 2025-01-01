@@ -23,8 +23,8 @@
 ## Getting Started 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/garimatanejaa/Link-Post.git
-   cd Link-Post
+   git clone https://github.com/garimatanejaa/Link-Pen.git
+   cd Link-Pen
 2. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
