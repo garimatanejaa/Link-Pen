@@ -30,6 +30,7 @@
    python -m venv venv
    source venv/bin/activate  # For MacOS/Linux
    venv\Scripts\activate     # For Windows
+3. In the .env file, write insert your own API KEY.
 
 3. Install the required dependencies:
    ```bash
